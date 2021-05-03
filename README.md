@@ -1,1 +1,16 @@
-# run-buddy
+# Run Buddy, Inc.
+
+# Purpose
+A website that offers fitness training services.
+
+## Built with`
+* HTML
+* CSS
+```
+# Website
+https://github.com/LukasMFish/run-buddy
+
+# Contribution
+Made with ❤️ by Lukas Fisher
+
+### ©2021 Run Buddy, Inc
